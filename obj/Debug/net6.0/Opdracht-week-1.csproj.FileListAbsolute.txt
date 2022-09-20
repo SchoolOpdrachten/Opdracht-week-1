@@ -1,0 +1,15 @@
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.csproj.AssemblyReference.cache
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.AssemblyInfo.cs
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\bin\Debug\net6.0\Opdracht-week-1.exe
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\bin\Debug\net6.0\Opdracht-week-1.deps.json
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\bin\Debug\net6.0\Opdracht-week-1.runtimeconfig.json
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\bin\Debug\net6.0\Opdracht-week-1.dll
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\bin\Debug\net6.0\Opdracht-week-1.pdb
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.dll
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\refint\Opdracht-week-1.dll
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.pdb
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\Opdracht-week-1.genruntimeconfig.cache
+C:\Users\peter\Desktop\asdf\Opdracht-week-1\obj\Debug\net6.0\ref\Opdracht-week-1.dll
