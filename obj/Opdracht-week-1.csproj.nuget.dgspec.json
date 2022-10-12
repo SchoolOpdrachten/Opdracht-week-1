@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\Desktop\\asdf\\Opdracht-week-1\\Opdracht-week-1.csproj": {}
+    "c:\\repos\\WPFW opdr\\Opdracht-week-1\\Opdracht-week-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\Desktop\\asdf\\Opdracht-week-1\\Opdracht-week-1.csproj": {
+    "c:\\repos\\WPFW opdr\\Opdracht-week-1\\Opdracht-week-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\Desktop\\asdf\\Opdracht-week-1\\Opdracht-week-1.csproj",
+        "projectUniqueName": "c:\\repos\\WPFW opdr\\Opdracht-week-1\\Opdracht-week-1.csproj",
         "projectName": "Opdracht-week-1",
-        "projectPath": "C:\\Users\\peter\\Desktop\\asdf\\Opdracht-week-1\\Opdracht-week-1.csproj",
-        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\Desktop\\asdf\\Opdracht-week-1\\obj\\",
+        "projectPath": "c:\\repos\\WPFW opdr\\Opdracht-week-1\\Opdracht-week-1.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "c:\\repos\\WPFW opdr\\Opdracht-week-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

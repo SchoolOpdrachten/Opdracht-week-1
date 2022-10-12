@@ -15,6 +15,10 @@ namespace Map
             this.van = van;
             this.naar = naar;
         }
+
+        // methode heb ik van internet gehaald omdat voor een of andere reden de code van pascal niet werkte. 
+        // Ik heb geprobeert de code van pascal te begrijpen en dat snap ik.
+        // Deze code snap ik niet helemaal.
         public void TekenConsole(ConsoleTekener t)
         {
             
